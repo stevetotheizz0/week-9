@@ -12,6 +12,12 @@ body {
     top: 0;
 }
 
+.dropdown {
+  right: 20px;
+  margin-top: 5px;
+  position: absolute;
+}
+
 .sidebar {
     position: absolute;
     left: 0px;
